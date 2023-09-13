@@ -1,0 +1,12 @@
+pip install natsort
+pip install scipy==1.3.1
+pip install numpy==1.17.4
+pip install torchvision==0.4.2
+pip install nltk==3.4.5
+pip install torch==1.3.1
+pip install pandas==0.25.3
+pip install Keras==2.3.1
+pip install deap==1.3.1
+pip install tqdm==4.39.0
+pip install recommonmark==0.6.0
+pip install scikit_learn==0.22.2.post1 
